@@ -1,0 +1,25 @@
+{
+  "jira_ticket_id": "VMREQ-1021",
+  "application_name": "vmtest1",
+  "environment": "bronze",
+  "inventory": [
+    {
+      "machine-id": "webappdev01",
+      "ip_address": "10.100.10.50",
+      "cpu": 4,
+      "ram_gb": 8.0,
+      "storage_gb": 100.0
+    },
+    {
+      "subnet": "10.100.10.0/24",
+      "cpu": 2,
+      "ram_gb": 4.0,
+      "storage_gb": 50.0
+    },
+    {
+      "cpu": 2,
+      "ram_gb": 4.0,
+      "storage_gb": 50.0
+    }
+  ]
+}
