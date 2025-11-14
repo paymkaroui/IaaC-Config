@@ -1,0 +1,10 @@
+{
+"jira_ticket_id": "INFRASS-123",
+"application_name": "vmtest1",
+"cpu": 2,
+"memory_gb": 4,
+"disk_gb": 30,
+"environment": "Bronze",
+"subnet": null,
+"ip_address": null
+}
