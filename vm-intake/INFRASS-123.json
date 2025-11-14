@@ -1,5 +1,4 @@
 {
-  
 "jira_ticket_id": "INFRASS-123",
 "application_name": "vmtest1",
 "cpu": 2,
@@ -9,4 +8,5 @@
 "subnet": null,
 "ip_address": null
 }
+
 
